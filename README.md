@@ -1,2 +1,3 @@
-# projetos-logica-programacao
- projetos do curso de logica em programação
+# Logica-programacao
+ Modulo de lógica de programação em python
+ Criação de uma calculadora com as 4 principais operações matematicas +,-,*,/
